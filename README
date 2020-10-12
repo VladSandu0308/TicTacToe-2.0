@@ -1,0 +1,7 @@
+Sandu Vlad-312CA
+
+Mai intai am apelat functia care aloca memorie celor doua boarduri,
+apoi intru in forul de citire(si implicit de lucrare a taskului 1 si de
+construire a macroboardului). Apoi nu fac decat sa apelez funtiile de afisare
+a macroboardului, de stabilire a castigatorului, si cea pentru coeficientul
+de atentie, urmand ca in final sa eliberez memoria celor doua matrice.
